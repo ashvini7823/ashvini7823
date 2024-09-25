@@ -5,7 +5,7 @@
 - 📚 Currently, I’m learning *Power BI, **SQL, **Python, and exploring **real-world data analysis projects*.
 
 ### 🔭 What I’m Working On
-- Developing *data analysis projects* to gain deeper insights into the *IT and entertainment industries*.
+- Developing *data analysis projects* to gain deeper insights into the *IT, Entertainment, E-commerce and Healthcare industries*.
 - Enhancing my skills in *Power Query, **advanced Excel, and **MySQL*.
 
 ### 👯 I’m Looking to Collaborate On
